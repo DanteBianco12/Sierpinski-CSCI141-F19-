@@ -2,7 +2,7 @@
 
 Name: Dante Bianco
 
-Description: a Python program that draws a Sierpinski Triangle using a method
+Description: A Python program that draws a Sierpinski Triangle using a method
 called a “chaos game”. A chaos game is an example of what’s called a zero-player game, so called
 because we set things up a certain way to start, and the “game” unfolds deterministically based on a
 set of rules - there are no players involved.
